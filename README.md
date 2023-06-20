@@ -1,2 +1,2 @@
 # Python-Assignment
-Assignment from YouTube: KongRuksiam Official
+Assignments from YouTube: KongRuksiam Official
